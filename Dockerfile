@@ -1,6 +1,6 @@
 FROM centos:7
 
-MAINTAINER Bangmetric pvt. ltd.
+MAINTAINER sailinux pvt. ltd.
 
 RUN yum -y install httpd
 
